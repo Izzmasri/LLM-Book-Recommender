@@ -68,7 +68,7 @@ coverage.xml
 chroma_db/
 
 # Data files (you might want to version control these, but excluding common ones)
-*.csv
+
 *.json
 *.pkl
 *.h5
