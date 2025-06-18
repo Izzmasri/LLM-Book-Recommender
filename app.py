@@ -103,4 +103,4 @@ with gr.Blocks(theme = gr.themes.Glass()) as dashboard:
 
 
 if __name__ == "__main__":
-    dashboard.launch(server_name="0.0.0.0", server_port=8080)
+    dashboard.launch()
